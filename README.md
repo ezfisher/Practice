@@ -1,2 +1,2 @@
 # Practice
-Just playing around
+C++ practice while learning
